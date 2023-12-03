@@ -1,0 +1,367 @@
+item_anchor:
+  name: "Wanderer's Anchor"
+  lore:
+    - ""
+    - "&7&oEnchanted stone, that capable to bind your compass"
+    - "&7&oto the point, where it been used."
+    - ""
+    - "&7Using:"
+    - "&a - Retuning your compass to the character location. "
+    - "&7Using with pressed Shift:"
+    - "&a - Resets your compass to the Heart of World."
+
+item_waystone_world:
+  name: "Waystone of the Wildlands"
+  lore:
+    - ""
+    - "&7&oEnchanted stone, tuned to the"
+    - "&7&oharbor of the Wild Lands. In conjunction with a compass"
+    - "&7&omay lead you to this place."
+    - ""
+    - "&7Using:"
+    - "&a - Retuning your compass to the harbor of the Wildlands."
+    - "&7Using with pressed Shift:"
+    - "&a - Resets your compass to the Heart of World."
+item_scroll_back:
+  name: "Scroll of Return"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll, that, when read"
+    - "&7&owill return you to the previous location,"
+    - "&7&oon death, or teleportation."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly teleporting to the previous location."
+
+item_scroll_fly:
+  name: "Scroll of Flight"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll, that, when read"
+    - "&7&owill allow you to fly for one hour."
+    - ""
+    - "&7Using:"
+    - "&a - Allows flight for one hour"
+    - "&a within the possessions of the character."
+    - "&7The effect will be reset if:"
+    - "&a - Character will damage any creature."
+    - "&a - Character will leave his possessions."
+
+item_scroll_market:
+  name: "Scroll of teleportation to the Marketplace of Amber"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll, that teleports you"
+    - "&7&oto the marketplace of Amber castle on reading."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly teleporting to the Amber Marketplace."
+
+item_scroll_world:
+  name: "Scroll of teleportation to the Wildlands"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll, that teleports you"
+    - "&7&oto the pier of the Wild Lands on reading."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly teleporting to the pier of the Wildlands."
+item_scroll_heal_01:
+  name: "Scroll of Healer I"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll that can heal"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly restores 8 HP"
+    - "&a to the target in the direction of view."
+    - "&a - In the absence of a target, heals the user."
+
+item_scroll_heal_02:
+  name: "Scroll of Healer II"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll that can heal"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly restores 16 HP"
+    - "&a to the target in the direction of view."
+    - "&a - In the absence of a target, heals the user."
+
+item_scroll_heal_03:
+  name: "Scroll of Healer III"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll that can heal"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly restores 24 HP"
+    - "&a to the target in the direction of view."
+    - "&a - In the absence of a target, heals the user."
+item_scroll_heal_04:
+  name: "Scroll of Healer IV"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll that can heal"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly restores 32 HP"
+    - "&a to the target in the direction of view."
+    - "&a - In the absence of a target, heal the user of the scroll."
+
+item_scroll_heal_05:
+  name: "Scroll of Healer V"
+  lore:
+    - ""
+    - "&7&oAn enchanted scroll that can heal"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Instantly restores 40 HP"
+    - "&a to the target in the direction of view."
+    - "&a - In the absence of a target, heal the user of the scroll."
+item_scroll_shield_01:
+  name: "Scroll of Defender I"
+  lore:
+    - ""
+    - "&7&oEnchanted scroll that can cast a shield spell"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Protects the target in the direction of view."
+    - "&a with a shield that absorbs 4 damage."
+    - "&a The shield exists for 3 minutes."
+    - "&a - In the absence of a target, protects the user of the scroll."
+
+item_scroll_shield_02:
+  name: "Scroll of Defender II"
+  lore:
+    - ""
+    - "&7&oEnchanted scroll that can cast a shield spell"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Protects the target in the direction of view."
+    - "&a with a shield that absorbs 8 damage."
+    - "&a The shield exists for 3 minutes."
+    - "&a - In the absence of a target, protects the user of the scroll."
+
+item_scroll_shield_03:
+  name: "Scroll of Defender III"
+  lore:
+    - ""
+    - "&7&oEnchanted scroll that can cast a shield spell"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Protects the target in the direction of view."
+    - "&a with a shield that absorbs 12 damage."
+    - "&a The shield exists for 3 minutes."
+    - "&a - In the absence of a target, protects the user of the scroll."
+
+item_scroll_shield_04:
+  name: "Scroll of Defender IV"
+  lore:
+    - ""
+    - "&7&oEnchanted scroll that can cast a shield spell"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Protects the target in the direction of view."
+    - "&a with a shield that absorbs 16 damage."
+    - "&a The shield exists for 3 minutes."
+    - "&a - In the absence of a target, protects the user of the scroll."
+
+item_scroll_shield_05:
+  name: "Scroll of Defender V"
+  lore:
+    - ""
+    - "&7&oEnchanted scroll that can cast a shield spell"
+    - "&7&oyou, or the target."
+    - ""
+    - "&7Using:"
+    - "&a - Protects the target in the direction of view."
+    - "&a with a shield that absorbs 20 damage."
+    - "&a The shield exists for 3 minutes."
+    - "&a - In the absence of a target, protects the user of the scroll."
+
+item_potion_health_01:
+  name: "Cheap Potion of Health"
+  lore:
+    - ""
+    - "&7&oLow-quality potion of health."
+    - ""
+    - "&7Drinking:"
+    - "&a - Health boost II (1.00)"
+
+item_potion_health_02:
+  name: "Well-brewed Potion of Health"
+  lore:
+    - ""
+    - "&7&oGood-quality potion of health."
+    - ""
+    - "&7Drinking:"
+    - "&a - Health boost II (2.00)"
+
+item_potion_health_03:
+  name: "High-quality Potion of Health"
+  lore:
+    - ""
+    - "&7&oHigh-quality potion of health."
+    - ""
+    - "&7Drinking:"
+    - "&a - Health boost III (3.00)"
+
+item_potion_health_04:
+  name: "Exclusive Potion of Health"
+  lore:
+    - ""
+    - "&7&oVery high-quality potion of health."
+    - ""
+    - "&7Drinking:"
+    - "&a - Health boost IV (4.00)"
+
+item_potion_health_05:
+  name: "Best Potion of Health"
+  lore:
+    - ""
+    - "&7&oBest-quality potion of health."
+    - ""
+    - "&7Drinking:"
+    - "&a - Health boost V (5.00)"
+item_potion_haste_01:
+  name: "Cheap Potion of Haste"
+  lore:
+    - ""
+    - "&7&oLow-quality potion of haste."
+    - ""
+    - "&7Drinking:"
+    - "&a - Haste I (0.15)"
+
+item_potion_haste_02:
+  name: "Well-brewed Potion of Haste"
+  lore:
+    - ""
+    - "&7&oGood-quality potion of haste."
+    - ""
+    - "&7Drinking:"
+    - "&a - Haste I (1.00)"
+
+item_potion_haste_03:
+  name: "High-quality Potion of Haste"
+  lore:
+    - ""
+    - "&7&oHigh-quality potion of haste."
+    - ""
+    - "&7Drinking:"
+    - "&a - Haste II (2.00)"
+
+item_potion_haste_04:
+  name: "Exclusive Potion of Haste"
+  lore:
+    - ""
+    - "&7&oVery high-quality potion of haste."
+    - ""
+    - "&7Drinking:"
+    - "&a - Haste III (3.00)"
+
+item_potion_haste_05:
+  name: "Best Potion of Haste"
+  lore:
+    - ""
+    - "&7&oHighest-quality potion of haste."
+    - ""
+    - "&7Drinking:"
+    - "&a - Haste IV (4.00)"
+item_potion_res_01:
+  name: "Cheap Potion of Resistance"
+  lore:
+    - ""
+    - "&7&oLow-quality potion of resistance."
+    - ""
+    - "&7Drinking:"
+    - "&a - Resistance I (0.15)"
+
+item_potion_res_02:
+  name: "Well-brewed Potion of Resistance"
+  lore:
+    - ""
+    - "&7&oGood-quality potion of resistance."
+    - ""
+    - "&7Drinking:"
+    - "&a - Resistance I (1.00)"
+
+item_potion_res_03:
+  name: "High-quality Potion of Resistance"
+  lore:
+    - ""
+    - "&7&oHigh-quality potion of resistance."
+    - ""
+    - "&7Drinking:"
+    - "&a - Resistance II (2.00)"
+
+item_potion_res_04:
+  name: "Exclusive Potion of Resistance"
+  lore:
+    - ""
+    - "&7&oVery high-quality potion of resistance."
+    - ""
+    - "&7Drinking:"
+    - "&a - Resistance III (3.00)"
+
+item_potion_res_05:
+  name: "Best Potion of Resistance"
+  lore:
+    - ""
+    - "&7&oBest-quality potion of resistance."
+    - ""
+    - "&7Drinking:"
+    - "&a - Resistance IV (4.00)"
+item_potion_shield_01:
+  name: "Cheap Potion of Shield"
+  lore:
+    - ""
+    - "&7&oLow-quality potion of shield."
+    - ""
+    - "&7Drinking:"
+    - "&a - Absorption I (0.15)"
+
+item_potion_shield_02:
+  name: "Well-brewed Potion of Shield"
+  lore:
+    - ""
+    - "&7&oGood-quality potion of shield."
+    - ""
+    - "&7Drinking:"
+    - "&a - Absorption I (1.00)"
+
+item_potion_shield_03:
+  name: "High-quality Potion of Shield"
+  lore:
+    - ""
+    - "&7&oHigh-quality potion of shield."
+    - ""
+    - "&7Drinking:"
+    - "&a - Absorption II (2.00)"
+
+item_potion_shield_04:
+  name: "Exclusive Potion of Shield"
+  lore:
+    - ""
+    - "&7&oVery high-quality potion of shield."
+    - ""
+    - "&7Drinking:"
+    - "&a - Absorption III (3.00)"
+
+item_potion_shield_05:
+  name: "Best Potion of Shield"
+  lore:
+    - ""
+    - "&7&oBest-quality potion of shield."
+    - ""
+    - "&7Drinking:"
+    - "&a - Absorption IV (4.00)"

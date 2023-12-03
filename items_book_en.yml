@@ -1,0 +1,145 @@
+item_book_beasts:
+  name: "Notes on Beasts"
+  lore:
+    - ""
+    - "&7&oExperienced hunter's notes on beasts"
+    - "&7&oin the vicinity of Amber Castle."
+item_book_undead:
+  name: "War Against the Undead"
+  lore:
+    - ""
+    - "&7&oConcise guide to waging war against the undead."
+    - "&7&oin our world."
+item_book_novice:
+  name: "Newcomer's Guide"
+  lore:
+    - ""
+    - "&7&oBasic instructions for newcomers"
+    - "&7&oto navigate our world."
+item_book_help:
+  name: "Book of Assistance"
+  lore:
+    - ""
+    - "&7&oGuide to the world and"
+    - "&7&olife advice."
+item_book_malleus_maleficarum_01:
+  name: "Malleus Maleficarum - Volume I"
+  lore:
+    - ""
+    - "&7&oAbout the position and activities"
+    - "&7&oof the Inquisition in our world."
+item_book_malleus_maleficarum_02:
+  name: "Malleus Maleficarum - Volume II"
+  lore:
+    - ""
+    - "&7&oAbout heresy."
+item_book_malleus_maleficarum_03:
+  name: "Malleus Maleficarum - Volume III"
+  lore:
+    - ""
+    - "&7&oAbout punishment and retribution."
+item_book_the_last_apocrypha:
+  name: "The Last Apocrypha"
+  lore:
+    - ""
+    - "&7&oThis book, found in the Claw of God,"
+    - "&7&ois so old and tattered that"
+    - "&7&oit seems like it could crumble"
+    - "&7&oat the slightest breeze."
+item_book_goblins:
+  name: "Goblins and Lesser Orcoids"
+  lore:
+    - ""
+    - "&7&oObservations and insights on goblins,"
+    - "&7&oorcs, and similar creatures."
+
+item_book_rifts_theory:
+  name: "Theory of Rifts"
+  lore:
+    - ""
+    - "&7&oDimensional theory of universes,"
+    - "&7&ospeculations, and recent achievements"
+    - "&7&oin creating rifts between worlds."
+
+item_book_myths_01:
+  name: "Myths of the First Epoch - Volume I"
+  lore:
+    - ""
+    - "&7&oVery old book with myths of ancient times."
+    - "&7&oIt's rare to find such a book intact."
+
+item_book_myths_02:
+  name: "Myths of the First Epoch - Volume II"
+  lore:
+    - ""
+    - "&7&oVery old book with myths of ancient times."
+    - "&7&oIt's rare to find such a book intact."
+
+item_book_last_god_01:
+  name: "Tale of the Last God of the Old World - Volume I"
+  lore:
+    - ""
+    - "&7&oAncient book written by an unknown author"
+    - "&7&oin the first epoch."
+
+item_book_last_god_02:
+  name: "Tale of the Last God of the Old World - Volume II"
+  lore:
+    - ""
+    - "&7&oAncient book written by an unknown author"
+    - "&7&oin the first epoch."
+
+item_book_last_god_03:
+  name: "Tale of the Last God of the Old World - Volume III"
+  lore:
+    - ""
+    - "&7&oAncient book written by an unknown author"
+    - "&7&oin the first epoch."
+
+item_book_sch_emerald:
+  name: "Emerald Equipment"
+  lore:
+    - ""
+    - "&7&oGeneral information about emerald equipment"
+    - "&7&oblueprints for its creation."
+
+item_book_sch_steel:
+  name: "Casting and Forging Steel"
+  lore:
+    - ""
+    - "&7&oGeneral information about casting and forging steel."
+    - "&7&oInstructions for smelting steel and blueprints"
+    - "&7&ofor steel tools with modifications."
+
+item_book_sch_titan:
+  name: "Creation and Forging of Titan"
+  lore:
+    - ""
+    - "&7&oGeneral information about creating and forging titan."
+    - "&7&oInstructions for smelting titan and blueprints"
+    - "&7&ofor titan armor and weapons."
+
+item_book_forbidden_manuscript:
+  name: "Forgotten Manuscript"
+  lore:
+    - ""
+    - "&7&oVery old manuscript,"
+    - "&7&oclearly missing many pages."
+    - "&7&oIf you look closely, you can see a badly"
+    - "&7&ocrumpled sheet of paper sticking out of it."
+
+item_book_fish_food_recepies:
+  name: "Sheet with Fish Recipes"
+  lore:
+    - ""
+    - "&7&oBook of a local chef who prepares"
+    - "&7&othe best fish snacks. This book"
+    - "&7&ocontains all the recipes on how to prepare"
+    - "&7&ofish for baking in the oven."
+
+item_book_for_cooking_recepies:
+  name: "Sheet with Cooking Item Recipes"
+  lore:
+    - ""
+    - "&7&oRecipe book for some cooking items"
+    - "&7&onecessary for cooking."
