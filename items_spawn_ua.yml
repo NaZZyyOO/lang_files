@@ -69,7 +69,7 @@ item_sword_adventurer_03:
      - "&7Пошкодження:&c +14"
      - "&7Бонус швидкості атаки:&e -1.9"
 item_sword_adventurer_04:
-    name: "Adventurer's Shining Blade"
+    name: "Сяючий клинок Авантюриста"
     lore:
      - "&8[Пустий Слот] - Інкрустація."
      - "&8[Пустий Слот] - Отрута."
