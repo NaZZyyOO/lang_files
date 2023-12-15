@@ -86,6 +86,37 @@ item_sword_adventurer_04:
      - "&7Пошкодження:&c +15"
      - "&7Бонус швидкості атаки:&e -2.0"
      - "&7Бонус швидкості бігу:&a +5.0%"
+item_sword_adventurer_04_gemact:
+  copy: item_sword_adventurer_04
+  lines:
+    1: "&7[Пустий Слот] - Дорогоцінний Камінь."
+
+item_sword_adventurer_04_poisonact:
+  copy: item_sword_adventurer_04
+  lines:
+    2: "&7[Пустий Слот] - Отрута."
+
+item_sword_adventurer_04_gemact_poisonact:
+  copy: item_sword_adventurer_04
+  lines:
+    1: "&7[Пустий Слот] - Дорогоцінний Камінь."
+    2: "&7[Пустий Слот] - Отрута."
+
+item_sword_adventurer_04_gemact_item_ruby:
+  copy: item_sword_adventurer_04_gemact
+  lines:
+    1: "&7[Дорогоцінний Камінь] - &5Рубін."
+
+item_sword_adventurer_04_poisonact_item_mooshroompoison:
+  copy: item_sword_adventurer_04_poisonact
+  lines:
+    2: "&7[Отрута] - &6Отрута Мухомора."
+
+item_sword_adventurer_04_gemact_poisonact_item_ruby_item_mooshroompoison:
+  copy: item_sword_adventurer_04_gemact_poisonact
+  lines:
+    1: "&7[Дорогоцінний Камінь] - &5Рубін."
+    2: "&7[Отрута] - &6Отрута Мухомора."
 item_iron_hammer_01:
   name: "&r&lРжавий залізний молот"
   lore:
@@ -568,7 +599,7 @@ item_rusty_leggings:
     - "&a - Стійкість I (0.15) при отриманні пошкодження."
     - "&a Спрацьовує не частіше раза в 45 секунд."
     - ""
-    - "&7Когда одеты:"
+    - "&7Коли одягнуті:"
     - "&7Захист:&8 +6"
     - "&7Здоров'я:&с +5"
     - "&7Бонус швидкості бігу:&a -3.75%"
@@ -584,7 +615,7 @@ item_rusty_boots:
     - "&a - Стійкість I (0.15) при отриманні пошкодження."
     - "&a Спрацьовує не частіше раза в 45 секунд."
     - ""
-    - "&7Когда одеты:"
+    - "&7Коли одягнуті:"
     - "&7Захист:&8 +3"
     - "&7Здоров'я:&с +4"
     - "&7Бонус швидкості бігу:&a -3.75%"

@@ -93,6 +93,37 @@ item_sword_adventurer_04:
     - "&7Когда в основной руке:"
     - "&7Сила атаки:&c +15"
     - "&7Бонус к скорости атаки:&e -2.0"
+item_sword_adventurer_04_gemact:
+  copy: item_sword_adventurer_04
+  lines:
+    1: "&7[Пустой Слот] - Драгоценный Камень."
+
+item_sword_adventurer_04_poisonact:
+  copy: item_sword_adventurer_04
+  lines:
+    2: "&7[Пустой Слот] - Яд."
+
+item_sword_adventurer_04_gemact_poisonact:
+  copy: item_sword_adventurer_04
+  lines:
+    1: "&7[Пустой Слот] - Драгоценный Камень."
+    2: "&7[Пустой Слот] - Яд."
+
+item_sword_adventurer_04_gemact_item_ruby:
+  copy: item_sword_adventurer_04_gemact
+  lines:
+    1: "&7[Драгоценный Камень] - &5Рубин."
+
+item_sword_adventurer_04_poisonact_mitem_ooshroompoison:
+  copy: item_sword_adventurer_04_poisonact
+  lines:
+    2: "&7[Яд] - &6Яд Мухомора."
+
+item_sword_adventurer_04_gemact_poisonact_item_ruby_item_mooshroompoison:
+  copy: item_sword_adventurer_04_gemact_poisonact
+  lines:
+    1: "&7[Драгоценный Камень] - &5Рубин."
+    2: "&7[Яд] - &6Яд Мухомора."
 
 # Молоты.
 item_iron_hammer_01:
