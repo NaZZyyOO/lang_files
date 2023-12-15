@@ -107,6 +107,14 @@ item_sword_adventurer_04_poisonact_item_mooshroompoison:
   copy: item_sword_adventurer_04_poisonact
   lines:
     2: "&7[Poison] - &6Mooshroom Poison."
+item_sword_adventurer_04_gemact_poisonact_item_mooshroompoison:
+  copy: item_sword_adventurer_04_gemact_poisonact
+  lines:
+    2: "&7[Poison] - &6Mooshroom Poison."
+item_sword_adventurer_04_gemact_poisonact_item_ruby:
+  copy: item_sword_adventurer_04_gemact_poisonact
+  lines:
+    1: "&7[Gemstone] - &5Ruby."
 item_sword_adventurer_04_gemact_poisonact_item_ruby_item_mooshroompoison:
   copy: item_sword_adventurer_04_gemact_poisonact
   lines:
