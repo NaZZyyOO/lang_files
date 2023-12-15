@@ -95,7 +95,14 @@ item_sword_adventurer_04_poisonact:
   copy: item_sword_adventurer_04
   lines:
     2: "&7[Пустий Слот] - Отрута."
-
+item_sword_adventurer_04_gemact_poisonact_item_mooshroompoison:
+  copy: item_sword_adventurer_04_gemact_poisonact
+  lines:
+    2: "&7[Отрута] - &6Отрута Мухомора."
+item_sword_adventurer_04_gemact_poisonact_item_ruby:
+  copy: item_sword_adventurer_04_gemact_poisonact
+  lines:
+    1: "&7[Дорогоцінний Камінь] - &5Рубін."
 item_sword_adventurer_04_gemact_poisonact:
   copy: item_sword_adventurer_04
   lines:
