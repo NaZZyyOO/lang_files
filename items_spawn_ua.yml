@@ -95,6 +95,11 @@ item_sword_adventurer_04_poisonact:
   copy: item_sword_adventurer_04
   lines:
     2: "&7[Пустий Слот] - Отрута."
+item_sword_adventurer_04_gemact_poisonact:
+  copy: item_sword_adventurer_04
+  lines:
+    1: "&7[Пустий Слот] - Дорогоцінний Камінь."
+    2: "&7[Пустий Слот] - Отрута."
 item_sword_adventurer_04_gemact_poisonact_item_mooshroompoison:
   copy: item_sword_adventurer_04_gemact_poisonact
   lines:
@@ -103,11 +108,6 @@ item_sword_adventurer_04_gemact_poisonact_item_ruby:
   copy: item_sword_adventurer_04_gemact_poisonact
   lines:
     1: "&7[Дорогоцінний Камінь] - &5Рубін."
-item_sword_adventurer_04_gemact_poisonact:
-  copy: item_sword_adventurer_04
-  lines:
-    1: "&7[Пустий Слот] - Дорогоцінний Камінь."
-    2: "&7[Пустий Слот] - Отрута."
 
 item_sword_adventurer_04_gemact_item_ruby:
   copy: item_sword_adventurer_04_gemact

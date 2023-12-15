@@ -121,7 +121,7 @@ item_sword_adventurer_04_gemact_poisonact_item_ruby:
   copy: item_sword_adventurer_04_gemact_poisonact
   lines:
     1: "&7[Драгоценный Камень] - &5Рубин."
-item_sword_adventurer_04_poisonact_mitem_ooshroompoison:
+item_sword_adventurer_04_poisonact_item_mooshroompoison:
   copy: item_sword_adventurer_04_poisonact
   lines:
     2: "&7[Яд] - &6Яд Мухомора."
