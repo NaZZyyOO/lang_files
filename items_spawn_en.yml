@@ -1,6 +1,9 @@
 item_sword_wood:
-    name: "Training Sword"
+    name: "&f&lTraining Sword"
     lore:
+     - "&8&lItem: &cWeapon"
+     - "&7&lKind: &4Sword"
+     - "&7&lType: &fCommon"
      - ""
      - "&7&oCommon wooden training sword, you have to try really hard to kill someone with it."
      - ""
@@ -8,8 +11,11 @@ item_sword_wood:
      - "&7Damage:&c +1"
      - "&7Attack speed bonus:&e +4"
 item_sword_stone:
-    name: "Statue's Bulky Sword"
+    name: "&f&lStatue's Bulky Sword"
     lore:
+     - "&8&lItem: &cWeapon"
+     - "&7&lKind: &4Sword substitute"
+     - "&7&lType: &fCommon"
      - ""
      - "&7&oToo heavy for a short man like you."
      - ""
@@ -18,8 +24,11 @@ item_sword_stone:
      - "&7Attack speed bonus:&e -1.8"
      - "&7Movement speed bonus:&a -15.0%"
 item_sword_adventurer_01:
-    name: "Adventurer's Rusty Blade"
+    name: "&f&lAdventurer's Rusty Blade"
     lore:
+     - "&8&lItem: &cWeapon"
+     - "&7&lKind: &4Blade"
+     - "&7&lType: &fCommon"
      - "&8[Empty Slot] - Gemstone."
      - "&8[Empty Slot] - Poison."
      - ""
@@ -35,8 +44,11 @@ item_sword_adventurer_01:
      - "&7Damage:&c +9"
      - "&7Attack speed bonus:&e -1.8"
 item_sword_adventurer_02:
-    name: "Adventurer's Blade"
+    name: "&9&lAdventurer's Blade"
     lore:
+     - "&8&lItem: &cWeapon"
+     - "&7&lKind: &4Blade"
+     - "&7&lType: &9Rare"
      - "&8[Empty Slot] - Gemstone."
      - "&8[Empty Slot] - Poison."
      - ""
@@ -52,8 +64,11 @@ item_sword_adventurer_02:
      - "&7Damage:&c +11"
      - "&7Attack speed bonus:&e -1.8"
 item_sword_adventurer_03:
-    name: "Adventurer's Polished Blade"
+    name: "&9&lAdventurer's Polished Blade"
     lore:
+     - "&8&lItem: &cWeapon"
+     - "&7&lKind: &4Blade"
+     - "&7&lType: &9Rare"
      - "&8[Empty Slot] - Gemstone."
      - "&8[Empty Slot] - Poison."
      - ""
@@ -69,8 +84,11 @@ item_sword_adventurer_03:
      - "&7Damage:&c +14"
      - "&7Attack speed bonus:&e -1.9"
 item_sword_adventurer_04:
-    name: "Adventurer's Shining Blade"
+    name: "&9&lAdventurer's Shining Blade"
     lore:
+     - "&8&lItem: &cWeapon"
+     - "&7&lKind: &4Blade"
+     - "&7&lType: &9Rare"
      - "&8[Empty Slot] - Gemstone."
      - "&8[Empty Slot] - Poison."
      - ""
@@ -123,6 +141,9 @@ item_sword_adventurer_04_gemact_poisonact_item_ruby_item_mooshroompoison:
 item_iron_hammer_01:
   name: "&r&lRusty Iron Hammer"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Hammer"
+    - "&7&lType: &fCommon"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oDespite the raw appearance, it is still usable."
@@ -139,8 +160,11 @@ item_iron_hammer_01:
     - "&7Movement speed bonus:&a -5.0%"
 
 item_iron_hammer_02:
-  name: "Rough Iron Hammer"
+  name: "&9&lRough Iron Hammer"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Hammer"
+    - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oRough iron hammer, better than his previous version, but heavier than it."
@@ -156,8 +180,11 @@ item_iron_hammer_02:
     - "&7Attack speed bonus:&e -2.4"
     - "&7Movement speed bonus:&a -10.0%"
 item_iron_hammer_03:
-  name: "Iron Hammer"
+  name: "&9&lIron Hammer"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Hammer"
+    - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oWell designed iron hammer, with which only the strong can fight."
@@ -173,8 +200,11 @@ item_iron_hammer_03:
     - "&7Attack speed bonus:&e -2.4"
     - "&7Movement speed bonus:&a -12.0%"
 item_iron_hammer_04:
-  name: "Polished Iron Hammer"
+  name: "&9&lPolished Iron Hammer"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Hammer"
+    - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oClean and shiny hammer, with which only the strong can fight."
@@ -190,8 +220,11 @@ item_iron_hammer_04:
     - "&7Attack speed bonus:&e -2.5"
     - "&7Movement speed bonus:&a -15.0%"
 item_iron_axe_01:
-  name: "Rusty Iron Axe"
+  name: "&f&lRusty Iron Axe"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Axe"
+    - "&7&lType: &fCommon"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oDespite the raw appearance, it is still usable."
@@ -206,8 +239,11 @@ item_iron_axe_01:
     - "&7Attack speed bonus:&e -2.2"
     - "&7Movement speed bonus:&a -10.0%"
 item_iron_axe_02:
-  name: "Iron Axe"
+  name: "&9&lIron Axe"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Axe"
+    - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oIron axe, sharper and cleaner than its previous version."
@@ -222,8 +258,11 @@ item_iron_axe_02:
     - "&7Attack speed bonus:&e -2.4"
     - "&7Movement speed bonus:&a -15.0%"
 item_iron_axe_03:
-  name: "Double-headed Iron Axe"
+  name: "&9&lDouble-headed Iron Axe"
   lore:
+    - "&8&lItem: &cWeapon"
+    - "&7&lKind: &4Axe"
+    - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oWell-designed double-headed iron Axe,"
@@ -239,8 +278,11 @@ item_iron_axe_03:
     - "&7Attack speed bonus:&e -2.4"
     - "&7Movement speed bonus:&a -17.0%"
 item_iron_axe_04:
-  name: "Double-headed Polished Iron Axe"
+  name: "&9&lDouble-headed Polished Iron Axe"
   lore:
+    - "&8&lItem: &cWeapon"
+	- "&7&lKind: &4Axe"
+    - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
     - "&7&oClean and shiny, double-headed iron axe,"
@@ -256,89 +298,115 @@ item_iron_axe_04:
     - "&7Attack speed bonus:&e -2.8"
     - "&7Movement speed bonus:&a -25.0%"
 item_arrow_blind:
-  name: "Blinding arrow of aborignals"
+  name: "&f&lBlinding arrow of aborignals"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oArrow of aborignals, the tip of which is covered in blinding poison."
     - "&7&oSuch poison no deal any damage, but causes the target"
     - "&7&obecome the blind for a short time, leaving it confused."
     - ""
-    - "&7Effect on hit: <&a>- Blindness (0.10)"
+    - "&7Effect on hit: \n&a- Blindness (0.10)"
 
 item_arrow_poison:
-  name: "Poisoned arrow of aborignals"
+  name: "&f&lPoisoned arrow of aborignals"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oArrow of aborignals, the tip of which is covered in slight poison."
     - ""
-    - "&7Effect on hit: <&a>- Poison II (0.10)"
+    - "&7Effect on hit: \n&a- Poison II (0.10)"
 
 item_arrow_poison_weakness:
-  name: "Soporific arrow of aborignals"
+  name: "&f&lSoporific arrow of aborignals"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oArrow of aborignals, the tip of which is covered in slight"
     - "&7&osoporific poison. Such poison no deal any damage to target, but"
     - "&7&makes target's movements sluggish and constrained."
     - ""
-    - "&7Effect on hit: <&a>- Slowness I (0.10), Mining Fatigue I (0.10), Weakness I (0.10)."
+    - "&7Effect on hit: &a- Slowness I (0.10), Mining Fatigue I (0.10), Weakness I (0.10)."
 item_golden_arrow:
-  name: "Golden Arrow"
+  name: "&9&lGolden Arrow"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oEnchanted golden arrow."
     - "&7&oUnaffordable luxury."
 
 item_skeleton_arrow:
-  name: "Undead arrow"
+  name: "&f&lUndead arrow"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oVery old and fragile, but still sharp."
     - "&7&oSuch arrows can usually be found on various undead."
 
 item_iron_arrow:
-  name: "Iron Arrow"
+  name: "&f&lIron Arrow"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oCommon arrow with iron tip."
     - "&7&oSuch arrows can be found on any archer."
 
 item_bolt:
-  name: "Steel Bolt"
+  name: "&f&lSteel Bolt"
   lore:
+    - "&8&lItem: &cAmmo"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oSpecial arrow, intended for crossbows."
 
 item_amber_flag:
-  name: "Amber Kingdom banner"
+  name: "&9&lAmber Kingdom banner"
   lore:
+    - "&8&lItem: &cBanner"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oRed banner of the Amber Kingdom."
 item_amber_guard_shield:
-  name: "Amber Guard Shield"
+  name: "&9&lAmber Guard Shield"
   lore:
+    - "&8&lItem: &4Shield"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oMassive shield of guard of the kingdom of Amber."
     - "&7&oGrants more protection than common wooden shield."
 item_amber_necromancers_flag:
-  name: "Amber Necrocult banner"
+  name: "&9&lAmber Necrocult banner"
   lore:
+    - "&8&lItem: &cBanner"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oRagged, filthy banner, with cursed emblem of Amber necromancers."
 item_amber_skeleton_shield:
-  name: "Undead shield"
+  name: "&9&lUndead shield"
   lore:
+    - "&8&lItem: &4Shield"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oSturdy wooden shield with Amber necromancers' emblem."
     - "&7&oSuch shield regularly can be found on undead inhabiting near the Amber castle."
 item_scroll_empty:
   name: "Empty Scroll"
   lore:
+    - "&8&lItem: &fMaterial"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oEmpty scroll, prepared for drawing magical symbols on it."
 item_start_helm:
-  name: "A Bowler That Does'nt Cook"
+  name: "&f&lA Bowler That Doesn't Cook"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oRusty, beat-up and full of holes iron bowler."
     - "&7&oCan be used as a ridiculous head protection."
@@ -352,8 +420,10 @@ item_start_helm:
     - "&7Movement speed bonus:&a -2.0%"
 
 item_start_chest:
-  name: "Silk Shirt"
+  name: "&f&lSilk Shirt"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oBrand new and clean silk shirt."
     - ""
@@ -362,8 +432,10 @@ item_start_chest:
     - "&7Movement speed bonus:&a +1.5%"
 
 item_start_leggings:
-  name: "Pipe Trousers"
+  name: "&f&lPipe Trousers"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oComfortable linen breeches."
     - ""
@@ -372,8 +444,10 @@ item_start_leggings:
     - "&7Movement speed bonus:&a +1.5%"
 
 item_start_boots:
-  name: "Moccasins"
+  name: "&f&lMoccasins"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oComfotable rawhide moccasins."
     - ""
@@ -381,8 +455,10 @@ item_start_boots:
     - "&7Defence:&8 +1"
     - "&7Movement speed bonus:&a +1.5%"
 item_chicory:
-  name: "Chicory flower"
+  name: "&f&lChicory flower"
   lore:
+    - "&8&lItem: &2Ingredient"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oA blue flower that can often be found near"
     - "&7&oAmber Castle. Has a tonic effect."
@@ -391,8 +467,10 @@ item_chicory:
     - "&a - Haste I (0.10)."
     - "&c - Has a small chance of causing nausea."
 item_red_lepiote:
-  name: "Red Lepiota"
+  name: "&f&lRed Lepiota"
   lore:
+    - "&8&lItem: &2Ingredient"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oLarge brown-red mushroom growing near Amber Castle."
     - "&7&oIncredibly poisonous, for which it is highly valued by alchemists and assassins."
@@ -401,8 +479,10 @@ item_red_lepiote:
     - "&c - Withering III (1.00)."
     - "&c - Poison III (1.00)."
 item_wolf_heather:
-  name: "Wolf's Heather"
+  name: "&f&lWolf's Heather"
   lore:
+    - "&8&lItem: &2Ingredient"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oDense leaves of the heather."
     - "&7&oHas a slight healing effect."
@@ -411,8 +491,10 @@ item_wolf_heather:
     - "&a - Instantly restores 1 HP."
     - "&c - Has a small chance of causing nausea."
 item_nettle:
-  name: "Amber nettle"
+  name: "&f&lAmber nettle"
   lore:
+    - "&8&lItem: &2Ingredient"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oLeaves of stinging nettle, often found near Amber Castle."
     - ""
@@ -420,8 +502,10 @@ item_nettle:
     - "&a - Regeneration I (0.10)."
     - "&c - Deals 4 damage."
 item_leather_helm:
-  name: "Balaclava"
+  name: "&f&lBalaclava"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oReliable leather balaclava."
     - ""
@@ -434,8 +518,10 @@ item_leather_helm:
     - "&7Max health bonus:&с +1"
 
 item_leather_chest:
-  name: "Quilted Armor"
+  name: "&f&lQuilted Armor"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oThick leather quilted armor."
     - ""
@@ -448,8 +534,10 @@ item_leather_chest:
     - "&7Max health bonus:&с +2"
 
 item_leather_leggings:
-  name: "Trousers"
+  name: "&f&lTrousers"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oLinen pants."
     - ""
@@ -462,8 +550,10 @@ item_leather_leggings:
     - "&7Max health bonus:&с +2"
 
 item_leather_boots:
-  name: "Boots"
+  name: "&f&lBoots"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oGood quality leather boots."
     - ""
@@ -476,8 +566,10 @@ item_leather_boots:
     - "&7Max health bonus:&с +1"
     - "&7Movement speed bonus:&a +5.0%"
 item_chainmail_helm:
-  name: "Chainmail Hood"
+  name: "&9&lChainmail Hood"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oA chainmail hood that provides good protection against glancing hits."
     - ""
@@ -492,8 +584,10 @@ item_chainmail_helm:
     - "&7Movement speed bonus:&a -2.5%"
 
 item_chainmail_chest:
-  name: "Chainmail"
+  name: "&9&lChainmail"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oA chainmail, that provides good protection against glancing hits."
     - ""
@@ -508,8 +602,10 @@ item_chainmail_chest:
     - "&7Movement speed bonus:&a -2.5%"
 
 item_chainmail_leggings:
-  name: "Chainmail Skirt"
+  name: "&9&lChainmail Skirt"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oA chainmail skirt, that provides good protection against glancing hits."
     - ""
@@ -524,8 +620,10 @@ item_chainmail_leggings:
     - "&7Movement speed bonus:&a -2.5%"
 
 item_chainmail_boots:
-  name: "Chainmail Stockings"
+  name: "&9&lChainmail Stockings"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oA chainmail stockings, that provides good protection against glancing hits."
     - ""
@@ -539,8 +637,10 @@ item_chainmail_boots:
     - "&7Max health bonus:&с +2"
     - "&7Movement speed bonus:&a -2.5%"
 item_rusty_helm:
-  name: "Rusty Bascinet"
+  name: "&9&lRusty Bascinet"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oIron helmet in the form of a dome, that provides good protection against blows."
     - ""
@@ -555,8 +655,10 @@ item_rusty_helm:
     - "&7Movement speed bonus:&a -3.75%"
 
 item_rusty_chest:
-  name: "Rusty Cuirass"
+  name: "&9&lRusty Cuirass"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oAn iron cuirass that provides good protection against blows."
     - ""
@@ -571,8 +673,10 @@ item_rusty_chest:
     - "&7Movement speed bonus:&a -3.75%"
 
 item_rusty_leggings:
-  name: "Rusty Chainmail Pants"
+  name: "&9&lRusty Chainmail Pants"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oRusty chainmail pants, that provides good protection against blows."
     - ""
@@ -587,8 +691,10 @@ item_rusty_leggings:
     - "&7Movement speed bonus:&a -3.75%"
 
 item_rusty_boots:
-  name: "Plate Iron Boots"
+  name: "&9&lPlate Iron Boots"
   lore:
+    - "&8&lItem: &cArmor"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oPlate iron boots, that provides good protection against blows."
     - ""
@@ -602,8 +708,10 @@ item_rusty_boots:
     - "&7Max health bonus:&с +4"
     - "&7Movement speed bonus:&a -3.75%"
 item_offhand_wand_simple:
-  name: "Basic Aspen Wand"
+  name: "&f&lBasic Aspen Wand"
   lore:
+    - "&8&lItem: &9Artifact"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oThe simplest of the enchanted wands."
     - "&7&oUsually, the students of enchanters train with such wands."
@@ -613,8 +721,11 @@ item_offhand_wand_simple:
     - "&7Max health bonus:&c +2"
 
 item_offhand_enchanted_book:
-  name: "Magician's tome"
+  name: "&f&lMagician's tome"
   lore:
+    - "&8&lItem: &9Artifact"
+    - "&7&lKind: &5Magical"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oSimplest enchanted tome,"
     - "&7&ooften using by novice sorcerers"
@@ -627,8 +738,11 @@ item_offhand_enchanted_book:
     - "&7Max health bonus:&a +2"
 
 item_offhand_oblerite_shards:
-  name: "Shards of Oblerite"
+  name: "&f&lShards of Oblerite"
   lore:
+    - "&8&lItem: &9Artifact"
+    - "&7&lKind: &2Earthen"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oEnchanted shards of rare magic mineral."
     - "&7&oIt remains valuable, even despite severe damage."
@@ -641,8 +755,11 @@ item_offhand_oblerite_shards:
     - "&7Movement speed bonus:&a +8.0%"
 
 item_offhand_cursed_bone:
-  name: "Cursed Bone"
+  name: "&f&lCursed Bone"
   lore:
+    - "&8&lItem: &9Artifact"
+    - "&7&lKind: &4Necrotic"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oCarved human bone, enchanted with weak necrotic magic."
     - "&7&oMakes its owner stronger, at cost of his own lifeforce."
@@ -658,8 +775,10 @@ item_offhand_cursed_bone:
     - "&7Movement speed bonus:&a -10.0%"
 
 item_offhand_ammonite_shell:
-  name: "Ammonite Shell"
+  name: "&9&lAmmonite Shell"
   lore:
+    - "&8&lItem: &9Artifact"
+    - "&7&lType: &9Rare"
     - ""
     - "&7&oEnchanted shell of an ancient mollusk."
     - "&7&oWhen you put it to your ear, you can hear the sound of the sea."

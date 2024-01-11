@@ -1,0 +1,397 @@
+item_apple_green:
+  name: "&f&lGreen Apple"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA ripe green apple, harvested"
+    - "&7&oin farmer's garden."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 3 HP."
+    - "&a - Removes Hunger debuff."
+
+item_apple_white:
+  name: "&f&lThe White Pour"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oJuicy and delicious apple. This old apple variety"
+    - "&7&ocan often be found at villagers."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 4 HP."
+    - "&a - Removes Hunger debuff."
+
+item_food_cooked_piranha:
+  name: "&f&lRoasted Piranha"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA sharptooth jungle fish,"
+    - "&7&oroasted in furnace. Common lunch"
+    - "&7&оof jungle aborignals."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 4 HP."
+    - "&a - Removes Hunger debuff."
+    - "&a - Has 20% chance to apply Strength I (0.20)"
+
+item_borscht:
+  name: "&f&lAmber Borsh"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oTraditional soup, that"
+    - "&7&ocooked in Amber."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 6 HP."
+    - "&a - Removes Hunger debuff."
+    - "&a - Has 30% to apply Regeneration I (0.30)"
+
+item_bun:
+  name: "&f&lWheat Bun"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA little stale, but"
+    - "&7&otasty wheat bun."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 4 HP."
+    - "&a - Removes Hunger debuff."
+
+item_cabbage:
+  name: "&f&lAmber Cabbage"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oVillager's green cabbage,"
+    - "&7&ofresh from the field."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 3 HP."
+    - "&a - Removes Hunger debuff."
+
+item_food_cooked_carp:
+  name: "&f&lRoasted Carp"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oRoasted carp. Suitable as"
+    - "&7&oa villager's dinner."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 4 HP."
+    - "&a - Removes Hunger debuff."
+
+item_food_cooked_kambala_rich:
+  name: "&f&lBaked Flounder with Spices"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA flounder, baked according toм"
+    - "&7&oan old recipe. It's a dish that even"
+    - "&7&oAmber gourmets don't shy away from."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 6 HP."
+    - "&a - Removes Hunger and Nausea debuffs."
+    - "&a - Has 30% chance to apply Saturation I (0.10)"
+
+item_food_cooked_kambala:
+  name: "&f&lRoasted Flounder"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA flounder, roasted without"
+    - "&7&oany spices. Simple, but tasty."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 5 HP."
+    - "&a - Removes Hunger debuff."
+
+item_food_baked_red_perch_rich:
+  name: "&f&lBaked Red Perch"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA red perch, baked with onion and"
+    - "&7&olemon juice. One of various fish dishes."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 7 HP."
+    - "&a - Removes Hunger debuff."
+item_food_cooked_salmon_in_cream:
+  name: "&f&lBaked Salmon in Cream Sauce"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oDelicious salmon pieces, baked in cream sauce."
+    - "&7&oVery rich and hearty dish."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores від 5 до 8 HP."
+    - "&a - Removes Hunger and Nausea debuffs."
+    - "&a - Has 15% chance to apply Saturation (0.10)"
+    - "&a - Has 30% chance to apply Haste II (2.00)"
+
+item_food_cooked_som_with_potato:
+  name: "&f&lBaked Catfish with Potato"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oHearty and simple catfish dish,"
+    - "&7&opopular amongst common people."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores від 4 до 6 HP."
+    - "&a - Removes Hunger and Nausea debuffs."
+    - "&a - Has 30% chance to apply Haste I (1.30)"
+    - "&a - Has 10% chance to apply Strenght I (0.30)"
+
+item_food_cooked_ugor:
+  name: "&f&lRoasted Eel"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oRoasted swamp eel. That"
+    - "&7&oswamp witches often feed on"
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 4 HP."
+    - "&a - Removes Hunger debuff."
+
+item_currant_red:
+  name: "&f&lRed Currant"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oRed, very sour berries,"
+    - "&7&oharvested in farmer's garden."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 2 HP."
+    - "&a - Removes Hunger debuff."
+
+item_currant:
+  name: "&f&lBlack Currant"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA black, sweet-and-sour berries,"
+    - "&7&oharvested in farmer's garden."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 3 HP."
+    - "&a - Removes Hunger debuff."
+
+item_fish_pottage:
+  name: "&f&lSea Pottage"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oHearty pottage filled with a"
+    - "&7&ovariety of ocean life."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 8 HP."
+    - "&a - Removes Hunger and Nausea debuffs."
+    - "&a - Resistance I (5.00)"
+    - "&a - Saturation (1.00)"
+
+item_garlic:
+  name: "&f&lGarlic"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oAn indispensable ingredient in some dishes."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 2 HP."
+    - "&a - Removes Hunger debuff."
+
+item_oysters:
+  name: "&f&lFried Oyster"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oFried and spiced oyster meat."
+    - "&7&oOne of favorite snacks of sailors."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 6 HP."
+    - "&a - Removes Hunger debuff."
+    - "&a - Has 30% chance to apply Strength I (0.30)"
+
+item_food_piranha_rich:
+  name: "&f&lBaked Piranha with Vegetables"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oMeat of jungle fish,"
+    - "&7&obaked with vegetables."
+    - "&7&oExotic."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores від 4 до 7 HP."
+    - "&a - Removes Hunger and Nausea debuffs."
+    - "&a - Has 30% chance to apply Resistance II (0.30)"
+item_food_raw_fish_pottage:
+  name: "&f&lRaw Sea Pottage"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA preparation for hearty and"
+    - "&7&odelicious sea pottage. Now, you"
+    - "&7&ocan bake it in furnace or smoker."
+
+item_food_raw_kambala_rich:
+  name: "&f&lRaw Spiced Flounder"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oGutted and sauteed flounder"
+    - "&7&oin ceramic bowl. Now, you may"
+    - "&7&obake it in furnace or smoker."
+
+item_food_raw_piranha_rich:
+  name: "&f&lRaw Piranha with Vegetables"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oMeat of sharptooth jungle fish,"
+    - "&7&owith potato, carrot, and onion."
+    - "&7&oNow you can bake it in furnace."
+
+item_food_raw_salmon_in_cream:
+  name: "&f&lRaw Salmon in Cream Sauce"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oSalmon slices, drizzled with cream sauce"
+    - "&7&oand sprinkled with lemon. Now, you may"
+    - "&7&obake this dish in furnace or smoke."
+
+item_food_raw_som_with_potato:
+  name: "&f&lRaw Catfish with Potato"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA preparation for a"
+    - "&7&otraditional catfish dish"
+
+item_food_raw_spiced_red_perch:
+  name: "&f&lRaw Spiced Red Perch"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oRed perch, spiced with salt,"
+    - "&7&opepper, onion, and lemon juice."
+    - "&7&oNow you can bake it in furnace."
+
+item_ribs_with_pepper:
+  name: "&f&lLamb Ribs with Pepper"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oDelicious spicy lamb ribs,"
+    - "&7&owhich served in Amber taverns."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 5 HP."
+    - "&a - Removes Hunger debuff."
+    - "&a - Has 30% to apply Speed I (0.30)"
+
+item_salat:
+  name: "&f&lLettuce leaves"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oFresh lettuce leaves,"
+    - "&7&ofrom peasant fields."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 3 HP."
+    - "&a - Removes Hunger debuff."
+
+item_salt_meat:
+  name: "&f&lSalted Jerky"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oCured and salted meat,"
+    - "&7&owith a disgusting taste and odor."
+    - "&7&oOften included in the diet of sailors"
+    - "&7&oon long voyages."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 3 HP."
+    - "&a - Removes Hunger debuff."
+
+item_shark_kebab:
+  name: "&f&lShark Kebab"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oA delicious shark kebab."
+    - "&7&oPopular among Amber sailors.
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 5 HP."
+    - "&a - Removes Hunger debuff."
+
+item_stew_rabbit:
+  name: "&f&lRabbit Stew with Vegetables"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oThe perfect appetizer for local drinks."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores 10 HP."
+    - "&a - Removes Hunger, Nausea and Blindness debuffs."
+    - "&a - Has 30% chance to apply Strength II (2.00)"
+
+item_cooked_seamonster_flesh:
+  name: "&f&lRoasted Seamonster Flesh"
+  lore:
+    - "&8&lItem: &aFood"
+    - "&7&lType: &rCommon"
+    - ""
+    - "&7&oIt looks delicious, until you remembering"
+    - "&7&owho you got the meat from..."
+    - ""
+    - "&7Eating:"
+    - "&a - Restores від 1 до 5 HP."
+    - "&a - Removes Hunger debuff."
