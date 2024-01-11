@@ -2,76 +2,94 @@ d_spawn_guard_open_gate:
     name: "&6&lRequest to Open the Gate"
     lore:
     - "&6Please open the gate."
+
 d_spawn_scribe_books:
     name: "&6&lBuy Books"
     lore:
     - "&6I want to see what books you have."
+
 d_buyer_sell_low:
     name: "&6&lSell Cheap Resources"
     lore:
     - "&6I want to sell cheap resources."
+
 d_buyer_sell_high:
     name: "&6&lSell Expensive Resources"
     lore:
     - "&6I want to sell expensive resources."
+
 d_moneychanger_trade:
     name: "&6&lExchange Talers"
     lore:
     - "&6I want to exchange Talers."
+
 d_moneychanger_buyer_trade:
     name: "&6&lExchange"
     lore:
     - "&6I want to exchange Talers, Gold, and Copper."
+
 d_spawn_alchemist_buy_low:
     name: "&6&lBuy Cheap Potions"
     lore:
     - "&6I want to buy cheap potions."
+
 d_spawn_alchemist_buy_high:
     name: "&6&lBuy Good Potions"
     lore:
     - "&6I want to buy good potions."
+
 d_spawn_mason_buy_low:
     name: "&6&lBuy Simple Blocks"
     lore:
     - "&6I want to buy simple blocks."
+
 d_spawn_mason_buy_high:
     name: "&6&lBuy Rare Blocks"
     lore:
     - "&6I want to buy rare blocks."
+
 d_spawn_dialogue_bersi_food:
     name: "&6&lBuy Food"
     lore:
     - "&6I want to grab a snack."
+
 d_spawn_dialogue_bersi_drink:
     name: "&6&lBuy Drinks"
     lore:
     - "&6Pour me something."
+
 d_spawn_dialogue_olos_leather:
     name: "&6&lBuy Leather Armor"
     lore:
     - "&6I want to buy leather armor from you."
+
 d_spawn_dialogue_olos_chain:
     name: "&6&lUpgrade Armor to Chainmail"
     lore:
     - "&6I want to replace my leather armor"
     - "&6with chainmail."
+
 d_spawn_dialogue_olos_rusty:
     name: "&6&lUpgrade Armor to Rusty"
     lore:
     - "&6I want to replace the chainmail"
     - "&6with rusty iron armor."
+
 d_spawn_dialogue_orson_blades:
     name: "&6&lBlades"
     lore:
     - "&6Show me the blades you can make."
+
 d_spawn_dialogue_orson_hammers:
     name: "&6&lHammers"
     lore:
     - "&6Show me the hammers you can make."
+
 d_spawn_dialogue_orson_axes:
     name: "&6&lAxes"
     lore:
     - "&6Show me the axes you can make."
+
 d_spawn_dialogue_garet_alms:
     name: "&6&lAsk for Alms"
     lore:
@@ -80,14 +98,17 @@ d_spawn_dialogue_garet_alms:
     - "&l7Ask for alms at the church, the preacher"
     - "&l7will give some gold, food, and drink."
     - "&l7Begging for alms can be done no more than once a day."
+
 d_spawn_dialogue_charli_food:
     name: "&6&lBuy Food"
     lore:
     - "&6I want to grab a snack."
+
 d_spawn_dialogue_charli_drink:
     name: "&6&lBuy Drinks"
     lore:
     - "&6Pour me something."
+
 advise:
     name: "&7&lA Little Advice"
     lore:
@@ -95,6 +116,7 @@ advise:
     - ""
     - "&7Ask the character for advice on"
     - "&7surviving in this world."
+
 info:
     name: "&7&lLatest Gossip"
     lore:
@@ -102,12 +124,14 @@ info:
     - ""
     - "&7Inquire with this character about"
     - "&7the latest rumors and news."
+
 trade:
     name: "&6&lTrade"
     lore:
     - "&6Show me what you have for sale."
     - ""
     - "&7Open the trading window with this character."
+
 quest_bandit_hands:
     name: "&6&lReward for Heads: Thieves"
     lore:
@@ -117,6 +141,7 @@ quest_bandit_hands:
     - "&7Show the guard the hands of thieves and"
     - "&7demand a reward for them according to"
     - "&7the decree."
+
 quest_bandit_ears:
   name: "&6&lReward for Heads: Bandits"
   lore:
@@ -126,6 +151,7 @@ quest_bandit_ears:
   - "&7Show the guard the ears of bandits and"
   - "&7demand a reward for them according to"
   - "&7the decree."
+
 quest_goblins:
   name: "&6&lReward for Heads: Amber Goblins"
   lore:
@@ -135,6 +161,7 @@ quest_goblins:
   - "&7Show the guard the noses of goblins and"
   - "&7demand a reward for them according to"
   - "&7the decree."
+
 npc_roland_mannergeim_q_tunnel_ogre:
   name: "&5&lQuest: Tunnel Ogre"
   lore:
@@ -143,12 +170,14 @@ npc_roland_mannergeim_q_tunnel_ogre:
   - "&7Take a quest from the character."
   - "&7This is a high-level task, and completing it"
   - "&7may not be easy."
+
 npc_hunter_kain_q_feed:
   name: "&6&lQuest: Feed Amai"
   lore:
   - "&6Do you have any tasks for me?"
   - ""
   - "&7Take a quest from the character."
+
 npc_hunter_kain_q_fox:
   name: "&6&lQuest: Fox Hunt"
   lore:
@@ -156,30 +185,35 @@ npc_hunter_kain_q_fox:
   - ""
   - "&7Take a quest from the character."
   - "&7This is an easy-level task, so the reward is not large."
+
 dialogue_alchemist_senna_q_flowers:
   name: "&6&lQuest: Flower Collection"
   lore:
   - "&6Do you have any tasks for me?"
   - ""
   - "&7Take a quest from the character."
+
 dialogue_alchemist_senna_q_shrooms:
   name: "&6&lQuest: Mushroom Gathering"
   lore:
   - "&6Do you have any tasks for me?"
   - ""
   - "&7Take a quest from the character."
+
 dialogue_gootfrid_q_rare_books:
   name: "&6&lQuest: Search for Rare Literature"
   lore:
   - "&6Do you have any tasks for me?"
   - ""
   - "&7Take a quest from the character."
+
 dialogue_morten_wickers_q_redstone:
   name: "&6&lQuest: Study of Redstone Dust"
   lore:
   - "&6Do you have any tasks for me?"
   - ""
   - "&7Take a quest from the character."
+
 exp_inc_s:
   name: "&6&lMinor Knowledge Encapsulation"
   lore:
@@ -194,6 +228,7 @@ exp_inc_s:
   - ""
   - "&7Minor encapsulation costs 16 silver coins"
   - "&7and stores 8 levels."
+
 exp_inc_b:
   name: "&6&lKnowledge Encapsulation"
   lore:
@@ -208,33 +243,40 @@ exp_inc_b:
   - ""
   - "&7Encapsulation costs 1 gold coin"
   - "&7and stores 27 levels."
+
 exp_trade:
   name: "&6&lBuy Amphorae"
   lore:
   - "&6I want to buy several amphorae from you"
   - "&6in exchange for emeralds."
+
 dialogue_ormm_q_force_lines:
   name: "&6&lQuest: Study of Force Lines"
   lore:
   - "&6Do you have any tasks for me?"
   - ""
   - "&7Take a quest from the character."
+
 s_Mykola_trade_low:
   name: "&6&lBuying Items for Talers"
   lore:
   - "&6I want to buy something from you for talers."
+
 s_Mykola_trade_high_armor:
   name: "&6&lBuying Armor for Tickets"
   lore:
   - "&6I want to buy armor from you for tickets."
+
 s_Mykola_trade_high_weapon:
   name: "&6&lBuying Weapons for Tickets"
   lore:
   - "&6I want to buy weapons or magical items from you for tickets."
+
 s_Mykola_trade_ticket:
   name: "&6&lTicket Exchange"
   lore:
   - "&6I want to exchange tickets with you."
+
 world_dialogue_mage_bertran_01:
   name: "&6&lPortal"
   lore:
@@ -242,6 +284,7 @@ world_dialogue_mage_bertran_01:
   - ""
   - "&7Ask the wizard to tell you a bit"
   - "&7about the portal in the mage tower."
+
 world_dialogue_mage_bertran_02:
   name: "&6&lTypes of Portals"
   lore:
@@ -250,6 +293,7 @@ world_dialogue_mage_bertran_02:
   - "&7Ask the wizard to explain a bit"
   - "&7about the varieties of portals and how to identify"
   - "&7what kind of portal is in front of you."
+
 world_dialogue_mage_bertran_03:
   name: "&6&lUnstable Wormhole"
   lore:
@@ -258,6 +302,7 @@ world_dialogue_mage_bertran_03:
   - ""
   - "&7Ask the wizard to explain more about"
   - "&7how the unstable wormhole works."
+
 ship_world:
   name: "&6&lWild Lands"
   lore:
@@ -267,6 +312,7 @@ ship_world:
   - "&7suitable for building and survival."
   - "&7The Crown sponsors the exploration of new territories,"
   - "&7so sailing in this direction is free."
+
 ship_amber:
   name: "&6&lAmber Castle"
   lore:
@@ -277,6 +323,7 @@ ship_amber:
   - "&7and the center of trade in this world."
   - "&7The Crown covers the cost of such journeys"
   - "&7for adventurers."
+
 ship_noob:
   name: "&6&lLayoshi Village"
   lore:
