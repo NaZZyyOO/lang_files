@@ -1,39 +1,39 @@
 item_book_beasts:
   name: "&f&lNotes on Beasts"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oExperienced hunter's notes on beasts"
     - "&7&oin the vicinity of Amber Castle."
 item_book_undead:
   name: "&f&lWar Against the Undead"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oConcise guide to waging war against the undead."
     - "&7&oin our world."
 item_book_novice:
   name: "&f&lNewcomer's Guide"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oBasic instructions for newcomers"
     - "&7&oto navigate our world."
 item_book_help:
   name: "&f&lBook of Assistance"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oGuide to the world and"
     - "&7&olife advice."
 item_book_malleus_maleficarum_01:
   name: "&4&lMalleus Maleficarum - Volume I"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &4Legendary"
     - ""
     - "&7&oAbout the position and activities"
@@ -41,21 +41,21 @@ item_book_malleus_maleficarum_01:
 item_book_malleus_maleficarum_02:
   name: "&4&lMalleus Maleficarum - Volume II"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &4Legendary"
     - ""
     - "&7&oAbout heresy."
 item_book_malleus_maleficarum_03:
   name: "&4&lMalleus Maleficarum - Volume III"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &4Legendary"
     - ""
     - "&7&oAbout punishment and retribution."
 item_book_the_last_apocrypha:
   name: "&6&lThe Last Apocrypha"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &6&l&k1 &6&lMythic &k1"
     - ""
     - "&7&oThis book, found in the Claw of God,"
@@ -65,8 +65,8 @@ item_book_the_last_apocrypha:
 item_book_goblins:
   name: "&f&lGoblins and Lesser Orcoids"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oObservations and insights on goblins,"
     - "&7&oorcs, and similar creatures."
@@ -74,7 +74,7 @@ item_book_goblins:
 item_book_rifts_theory:
   name: "&9&lTheory of Rifts"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &9Rare"
     - ""
     - "&7&oDimensional theory of universes,"
@@ -84,7 +84,7 @@ item_book_rifts_theory:
 item_book_myths_01:
   name: "&9&lMyths of the First Epoch - Volume I"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &9Rare"
     - ""
     - "&7&oVery old book with myths of ancient times."
@@ -93,7 +93,7 @@ item_book_myths_01:
 item_book_myths_02:
   name: "&9&lMyths of the First Epoch - Volume II"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &9Rare"
     - ""
     - "&7&oVery old book with myths of ancient times."
@@ -102,7 +102,7 @@ item_book_myths_02:
 item_book_last_god_01:
   name: "&9&lTale of the Last God of the Old World - Volume I"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &9Rare"
     - ""
     - "&7&oAncient book written by an unknown author"
@@ -111,7 +111,7 @@ item_book_last_god_01:
 item_book_last_god_02:
   name: "&9&lTale of the Last God of the Old World - Volume II"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &9Rare"
     - ""
     - "&7&oAncient book written by an unknown author"
@@ -120,7 +120,7 @@ item_book_last_god_02:
 item_book_last_god_03:
   name: "&9&lTale of the Last God of the Old World - Volume III"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &9Rare"
     - ""
     - "&7&oAncient book written by an unknown author"
@@ -129,8 +129,8 @@ item_book_last_god_03:
 item_book_sch_emerald:
   name: "&f&lEmerald Equipment"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oGeneral information about emerald equipment"
     - "&7&oblueprints for its creation."
@@ -146,8 +146,8 @@ item_book_sch_steel:
 item_book_sch_titan:
   name: "&f&lCreation and Forging of Titan"
   lore:
-    - "&8&lItem: &rBook"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fBook"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oGeneral information about creating and forging titan."
     - "&7&oInstructions for smelting titan and blueprints"
@@ -156,7 +156,7 @@ item_book_sch_titan:
 item_book_forbidden_manuscript:
   name: "&6&lForgotten Manuscript"
   lore:
-    - "&8&lItem: &rBook"
+    - "&8&lItem: &fBook"
     - "&7&lType: &6&l&k1 &6&lMythic &k1"
     - ""
     - "&7&oVery old manuscript,"
@@ -167,8 +167,8 @@ item_book_forbidden_manuscript:
 item_book_fish_food_recepies:
   name: "&f&lSheet with Fish Recipes"
   lore:
-    - "&8&lItem: &rSheet of Text"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fSheet of Text"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oBook of a local chef who prepares"
     - "&7&othe best fish snacks. This book"
@@ -178,8 +178,8 @@ item_book_fish_food_recepies:
 item_book_for_cooking_recepies:
   name: "&f&lSheet with Cooking Item Recipes"
   lore:
-    - "&8&lItem: &rSheet of Text"
-    - "&7&lType: &rCommon"
+    - "&8&lItem: &fSheet of Text"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oRecipe book for some cooking items"
     - "&7&onecessary for cooking."

@@ -252,7 +252,7 @@ item_clay_bowl:
   name: "&f&lCeramic Bowl"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oA ceramic oven-burned plate, sturdy"
     - "&7&oand usable. Used instead of wooden bowl,"
@@ -262,7 +262,7 @@ item_raw_clay_bowl:
   name: "&f&lRaw Clay Bowl"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oA blank for a plate made of raw clay."
     - "&7&oNow it can be fired in the furnace to get"
@@ -272,7 +272,7 @@ item_lemon:
   name: "&f&lLemon"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oAn outlandish fruit that tastes very sour."
     - "&7&oCommonly used in fish dishes."
@@ -281,7 +281,7 @@ item_pepper:
   name: "&f&lGround Pepper"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oA handful of ground black pepper."
     - "&7&oBefore the laying of the Great Satin Road,"
@@ -292,7 +292,7 @@ item_petrushka:
   name: "&f&lParsley"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oA bunch of fresh and savory parsley,"
     - "&7&othat was harvested in someone's garden."
@@ -301,7 +301,7 @@ item_salt:
   name: "&f&lSea Salt"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oLarge-ground sea salt, which"
     - "&7&owas mined at the shore of the far Live Sea."
@@ -310,7 +310,7 @@ item_sunflower_oil:
   name: "&f&lSunflower Oil"
   lore:
     - "&8&lItem: &cMaterial"
-    - "&7&lType: &rCommon"
+    - "&7&lType: &fCommon"
     - ""
     - "&7&oVegetable oil, made from seeds"
     - "&7&of sunflower. Used in various dishes."

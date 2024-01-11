@@ -139,7 +139,7 @@ item_sword_adventurer_04_gemact_poisonact_item_ruby_item_mooshroompoison:
     1: "&7[Gemstone] - &5Ruby."
     2: "&7[Poison] - &6Mooshroom Poison."
 item_iron_hammer_01:
-  name: "&r&lRusty Iron Hammer"
+  name: "&f&lRusty Iron Hammer"
   lore:
     - "&8&lItem: &cWeapon"
     - "&7&lKind: &4Hammer"
@@ -281,7 +281,7 @@ item_iron_axe_04:
   name: "&9&lDouble-headed Polished Iron Axe"
   lore:
     - "&8&lItem: &cWeapon"
-	- "&7&lKind: &4Axe"
+    - "&7&lKind: &4Axe"
     - "&7&lType: &9Rare"
     - "&8[Empty Slot] - Gemstone."
     - ""
